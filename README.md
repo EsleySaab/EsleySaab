@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="200" src="https://38.media.tumblr.com/a4fbf994037bd88b5430f48ce560cd9c/tumblr_n3maviUnJe1tsw59bo1_500.gif"  />
+<img align="right" height="200" src="https://64.media.tumblr.com/a4fbf994037bd88b5430f48ce560cd9c/tumblr_n3maviUnJe1tsw59bo1_500.gif"  />
 
 ###
 
@@ -25,6 +25,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
 </div>
 
 ###
